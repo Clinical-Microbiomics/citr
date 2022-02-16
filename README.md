@@ -1,3 +1,9 @@
+
+### Note: This is the forked repository from `crsh/citr`. 
+- change: Instead of loading bibtex from CRAN our forked packages loads bibtex from it's GitHub Repository
+- This is to pass the CI  (cm.reports)
+- Should `citr` be available on CRAN again, citr should be loaded from CRAN
+
 citr: RStudio Addin to Insert Markdown Citations
 ================
 
